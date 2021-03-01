@@ -26,6 +26,6 @@
   "dependencies": {
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "three": "^0.111.0"
+    "three": "^0.125.0"
   }
 }
